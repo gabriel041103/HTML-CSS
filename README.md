@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- linkedin - [Gabriel Monteiro]([https://www.your-site.com](https://www.linkedin.com/in/gabrielmonteiro0/))
+- linkedin - [Gabriel Monteiro](https://www.linkedin.com/in/gabrielmonteiro0/)
 
