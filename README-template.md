@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![](./screenshot.jpg)](https://imgur.com/a/0iGHsFb)
+[Screenshot](https://imgur.com/a/0iGHsFb))
 
 
 ## My process
